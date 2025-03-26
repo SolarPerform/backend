@@ -1,2 +1,0 @@
-npx --no ts-node commitlint.config.ts --edit "$1"
-
